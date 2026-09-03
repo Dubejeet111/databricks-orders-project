@@ -1,6 +1,6 @@
 # databricks-orders-project
 this project demonostrates:
-\\Topics
+\Topics
 - Databricks
 - Pyspark
 - Delta Lake
